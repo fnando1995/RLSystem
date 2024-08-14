@@ -89,11 +89,11 @@ EmployeeID: 102, Name: Jane Smith
     - --report = 'data/validation_report.txt'
 
 - If the rule #4 is broken (Employees with the same EmployeeID should have consistent Name values.), the execution will stop. Having a single id with different names in the csv should be fixed manually to retry.
-    - ```
-        python app.py --file data/schedules-error.csv --report data/validation_report.txt
-        
-        You are trying to name 101 as Jane Smith, but 101 already has name: John Doe. Check line #7 in csv.
-      ``` 
+```
+python app.py --file data/schedules-error.csv --report data/validation_report.txt
+
+You are trying to name 101 as Jane Smith, but 101 already has name: John Doe. Check line #7 in csv.
+``` 
 - You can also check on an extended schedule file to test, named `schedules-extended.csv`. Result:
 
 ```
@@ -112,3 +112,8 @@ EmployeeID: 104, Name: Andrea Boscan
 - Worked the night shift on both Saturday and Sunday.
 
 ```
+
+### Future Improvements
+
+- Add streamlit app deployment to manage schedule file uploading, and better visualization of the validation report in the browser.
+- Containerize app for easier deployment.
