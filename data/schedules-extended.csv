@@ -1,0 +1,24 @@
+EmployeeID,Name,Day,Shift
+101,John Doe,Monday,Morning
+101,John Doe,Monday,Afternoon
+101,John Doe,Tuesday,Night
+101,John Doe,Wednesday,Night
+101,John Doe,Thursday,Night
+101,John Doe,Friday,Night
+101,John Doe,Saturday,Night
+102,Jane Smith,Monday,Night
+102,Jane Smith,Tuesday,Night
+102,Jane Smith,Wednesday,Morning
+102,Jane Smith,Thursday,Morning
+102,Jane Smith,Friday,Afternoon
+103,Emmanuel moran,Monday,Morning
+103,Emmanuel moran,Tuesday,Night
+103,Emmanuel moran,Wednesday,Morning
+103,Emmanuel moran,Thursday,Night
+103,Emmanuel moran,Saturday,Night
+104,Andrea Boscan,Tuesday,Morning
+104,Andrea Boscan,Tuesday,Night
+104,Andrea Boscan,Wednesday,Morning
+104,Andrea Boscan,Thursday,Night
+104,Andrea Boscan,Saturday,Night
+104,Andrea Boscan,Sunday,Night

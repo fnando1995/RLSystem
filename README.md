@@ -94,3 +94,21 @@ EmployeeID: 102, Name: Jane Smith
         
         You are trying to name 101 as Jane Smith, but 101 already has name: John Doe. Check line #7 in csv.
       ``` 
+- You can also check on an extended schedule file to test, named `schedules-extended.csv`. Result:
+
+```
+EmployeeID: 101, Name: John Doe
+- Worked more than one shift on Monday
+- Worked more than 5 days in the week.
+- Worked the night shift on both Tuesday and Wednesday.
+- Worked the night shift on both Wednesday and Thursday.
+- Worked the night shift on both Thursday and Friday.
+- Worked the night shift on both Friday and Saturday.
+EmployeeID: 102, Name: Jane Smith
+- Worked the night shift on both Monday and Tuesday.
+EmployeeID: 103, Name: Emmanuel moran
+EmployeeID: 104, Name: Andrea Boscan
+- Worked more than one shift on Tuesday
+- Worked the night shift on both Saturday and Sunday.
+
+```

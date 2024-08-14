@@ -1,9 +1,0 @@
-EmployeeID: 101, Name: John Doe
-- Worked more than one shift on Monday
-- Worked more than 5 days in the week.
-- Worked the night shift on both Tuesday and Wednesday.
-- Worked the night shift on both Wednesday and Thursday.
-- Worked the night shift on both Thursday and Friday.
-- Worked the night shift on both Friday and Saturday.
-EmployeeID: 102, Name: Jane Smith
-- Worked the night shift on both Monday and Tuesday.
