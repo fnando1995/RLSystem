@@ -1,2 +1,0 @@
-EmployeeID: 101, Name: John Doe
-- Worked more than one shift on Monday
